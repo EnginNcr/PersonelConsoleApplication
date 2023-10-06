@@ -9,5 +9,6 @@ namespace Business.Abstract
     public interface IAuthService
     {
         bool IsAdmin(string username, string password);
+        //deneme
     }
 }
